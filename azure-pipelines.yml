@@ -23,6 +23,7 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
+- checkout: checking
 - task: NuGetToolInstaller@1
 
 - task: NuGetCommand@2
