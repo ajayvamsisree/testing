@@ -18,7 +18,7 @@ resources:
   repositories: 
   - repository: test
     endpoint: ajayvamsisree
-    name: test/test
+    name: ajayvamsisree/test
     type: git 
     ref: master
 steps:
