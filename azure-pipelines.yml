@@ -24,6 +24,7 @@ variables:
 
 steps:
 - checkout: checking
+- pwsh: ./script.ps1
 - task: NuGetToolInstaller@1
 
 - task: NuGetCommand@2
