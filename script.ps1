@@ -7,4 +7,4 @@ git add .
 git commit -m "add"
 git config --global user.name "ajayvamsisree"
 git config --global user.email "ajayvamsisree@gmail.com"
-git push -u origin master
+
