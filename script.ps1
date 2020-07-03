@@ -9,3 +9,4 @@ git config --global user.name "ajayvamsisree"
 git config --global user.email "ajayvamsisree@gmail.com"
 git push -u origin master
 cd ..
+git status
