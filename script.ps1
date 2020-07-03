@@ -1,5 +1,6 @@
 git clone "https://github.com/ajayvamsisree/test.git"
 cd test
+ls
 git status
 echo "heljasdhajdhajljl" >>abc.txt
 git status
