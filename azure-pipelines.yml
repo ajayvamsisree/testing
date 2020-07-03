@@ -17,7 +17,7 @@ variables:
 resources:      
   repositories: 
   - repository: test
-    endpoint: ajayvamsisree
+    endpoint: git_ajay
     name: ajayvamsisree/test
     type: git 
     ref: master
