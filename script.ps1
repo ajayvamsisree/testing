@@ -3,7 +3,6 @@ cd test
 git status
 echo "hello 123" >>abc.txt
 git status
-git add abc.txt
+git add .
 git commit -m "add"
 git push -u origin master
-git status
